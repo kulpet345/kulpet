@@ -1,0 +1,6 @@
+[       OK ] Correct.Test1 (413 ms)
+[----------] 1 test from Correct (413 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (413 ms total)
+[  PASSED  ] 1 test.
